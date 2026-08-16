@@ -37,7 +37,7 @@
     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/officermills/OBS-Controller-Overlay-THECLUTCH?include_prereleases&style=plastic&logo=github&logoSize=auto&label=Latest%20Release&color=%23FFFF00">
   </a>
   <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/stargazers">
-    <img src="https://img.shields.io/github/stars/OfficerMills/OBS-Controller-Overlay-THECLUTCH?style=flat&label=Stars&logo=github&logoColor=white" alt="GitHub Stars">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/officermills/OBS-Controller-Overlay-THECLUTCH?style=plastic&logo=Github&label=Stars&color=%23FFFF00">
   </a>
 </p>
 
