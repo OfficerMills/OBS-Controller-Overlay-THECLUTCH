@@ -7,6 +7,7 @@
     >
   </a>
 </p>
+
 <p align="center">
   <a href="https://theclutch.net">
     <img src="https://img.shields.io/badge/The%20Clutch-THECLUTCH.NET-5865F2?style=flat&logo=googlechrome&logoColor=white" alt="The Clutch Website">
@@ -14,17 +15,29 @@
   <a href="https://discord.gg/BQkXttTR4n">
     <img src="https://img.shields.io/badge/Discord-Join%20The%20Clutch-5865F2?style=flat&logo=discord&logoColor=white" alt="Join The Clutch Discord">
   </a>
-    <a href="https://x.com/GregTheClutch">
+  <a href="https://x.com/GregTheClutch">
     <img src="https://img.shields.io/badge/X-GregTheClutch-000000?style=flat&logo=x&logoColor=white" alt="GregTheClutch on X">
   </a>
-    <a href="https://www.instagram.com/greghatchette/">
+  <a href="https://www.instagram.com/greghatchette/">
     <img src="https://img.shields.io/badge/Instagram-%40GregHatchette-E4405F?style=flat&logo=instagram&logoColor=white" alt="GregHatchette on Instagram">
   </a>
-    <a href="https://www.tiktok.com/@thisistheclutch">
+  <a href="https://www.tiktok.com/@thisistheclutch">
     <img src="https://img.shields.io/badge/TikTok-%40ThisIsTheClutch-000000?style=flat&logo=tiktok&logoColor=white" alt="This Is The Clutch on TikTok">
   </a>
   <a href="https://www.twitch.tv/gregtheclutch">
     <img src="https://img.shields.io/badge/Twitch-GregTheClutch-9146FF?style=flat&logo=twitch&logoColor=white" alt="GregTheClutch on Twitch">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases/latest">
+    <img src="https://img.shields.io/github/v/release/OfficerMills/OBS-Controller-Overlay-THECLUTCH?style=flat&label=Latest%20Release&logo=github&logoColor=white" alt="Latest Release">
+  </a>
+  <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases">
+    <img src="https://img.shields.io/github/downloads/OfficerMills/OBS-Controller-Overlay-THECLUTCH/total?style=flat&label=Downloads&logo=github&logoColor=white" alt="Total Downloads">
+  </a>
+  <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/stargazers">
+    <img src="https://img.shields.io/github/stars/OfficerMills/OBS-Controller-Overlay-THECLUTCH?style=flat&label=Stars&logo=github&logoColor=white" alt="GitHub Stars">
   </a>
 </p>
 
@@ -117,6 +130,7 @@ After extraction, you should see a structure similar to:
     └── 🖼️ image.png
         🖼️ image-1.png
         🖼️ image-2.png
+        🖼️ THECLUTCH_Banner.png
 📄 README.md
 📜 LICENSE
 ```
@@ -292,7 +306,8 @@ Input-Overlay Controller Overlay/
 ├── 📁 🖼️ EXAMPLE IMAGES
 │   ├── 🖼️ image.png
 │   ├── 🖼️ image-1.png
-│   └── 🖼️ image-2.png
+│   ├── 🖼️ image-2.png
+│   └── 🖼️ THECLUTCH_Banner.png
 │
 ├── 📜 LICENSE
 │
