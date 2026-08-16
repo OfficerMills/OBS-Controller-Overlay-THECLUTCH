@@ -30,10 +30,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases">
+    <img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/OfficerMills/OBS-Controller-Overlay-THECLUTCH/TheClutch%20Controller%20Overlay?displayAssetName=false&style=plastic&logo=github&logoSize=auto&label=Downloads&color=%23FFFF00">
+  </a>
   <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases/latest">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/officermills/OBS-Controller-Overlay-THECLUTCH?style=plastic&logo=Github&logoSize=auto&label=Download%20Size&color=%23FFFF00">
   </a>
-  <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases">
+  <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases/latest">
     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/officermills/OBS-Controller-Overlay-THECLUTCH?include_prereleases&style=plastic&logo=github&logoSize=auto&label=Latest%20Release&color=%23FFFF00">
   </a>
   <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/stargazers">
