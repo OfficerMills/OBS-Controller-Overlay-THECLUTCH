@@ -15,7 +15,7 @@
   <a href="https://discord.gg/BQkXttTR4n">
     <img src="https://img.shields.io/badge/Discord-Join%20The%20Clutch-5865F2?style=flat&logo=discord&logoColor=white" alt="Join The Clutch Discord">
   </a>
-  <a href="https://x.com/GregTheClutch">
+  <a href="https://x.com/TheClutch_USA">
     <img src="https://img.shields.io/badge/TheClutch_USA-000000?style=flat&logo=x&logoColor=white" alt="GregTheClutch on X">
   </a>
   <a href="https://www.instagram.com/greghatchette/">
