@@ -34,12 +34,13 @@
     <img src="https://img.shields.io/github/v/release/OfficerMills/OBS-Controller-Overlay-THECLUTCH?style=flat&label=Latest%20Release&logo=github&logoColor=white" alt="Latest Release">
   </a>
   <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/releases">
-    <img src="https://img.shields.io/github/downloads/OfficerMills/OBS-Controller-Overlay-THECLUTCH/total?style=flat&label=Downloads&logo=github&logoColor=white" alt="Total Downloads">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/officermills/OBS-Controller-Overlay-THECLUTCH?include_prereleases&style=plastic&logo=github&logoSize=auto&label=Latest%20Release&color=%23FFFF00">
   </a>
   <a href="https://github.com/OfficerMills/OBS-Controller-Overlay-THECLUTCH/stargazers">
     <img src="https://img.shields.io/github/stars/OfficerMills/OBS-Controller-Overlay-THECLUTCH?style=flat&label=Stars&logo=github&logoColor=white" alt="GitHub Stars">
   </a>
 </p>
+
 
 # 🎮 The Clutch — Input-Overlay Controller Overlay
 
