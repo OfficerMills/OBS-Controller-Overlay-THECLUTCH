@@ -15,8 +15,8 @@
   <a href="https://discord.gg/BQkXttTR4n">
     <img src="https://img.shields.io/badge/Discord-Join%20The%20Clutch-5865F2?style=flat&logo=discord&logoColor=white" alt="Join The Clutch Discord">
   </a>
-  <a href="https://x.com/GregTheClutch">
-    <img src="https://img.shields.io/badge/X-theclutch_usa-000000?style=flat&logo=x&logoColor=white" alt="GregTheClutch on X">
+  <a href="https://x.com/theclutch_usa">
+    <img src="https://img.shields.io/badge/theclutch_usa-000000?style=flat&logo=x&logoColor=white" alt="GregTheClutch on X">
   </a>
   <a href="https://www.instagram.com/greghatchette/">
     <img src="https://img.shields.io/badge/Instagram-%40GregHatchette-E4405F?style=flat&logo=instagram&logoColor=white" alt="GregHatchette on Instagram">
